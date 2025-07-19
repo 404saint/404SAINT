@@ -43,7 +43,7 @@ No smoke, no mirrors — just raw technical skill, curiosity, and relentless han
 ### 📬 Connect With Me
 
 - 📧 Email: nullsaint404@gmail.com  
-- 🔗 LinkedIn: [Coming Soon]  
+- 🔗 LinkedIn: www.linkedin.com/in/nkusi-rugero-tesla-012018376  
 - 🌍 Portfolio Website: [Coming Soon]
 
 ---
