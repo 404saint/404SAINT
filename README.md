@@ -6,22 +6,11 @@ Yo, I’m Tesla — a relentless penetration tester and offensive security hacke
 
 ---
 
-### 🚧 Current Projects & Labs
-
-- 🧰 God-mode Recon Script — fully automated, multi-tool Bash reconnaissance  
-- 🧬 SharpHound Parser Tool — enhanced with filtering, CME integration, and path-to-admin detection  
-- 🕸 Chrome Credentials Extractor — ethical credential retrieval in lab environments  
-- 🔐 NTLMRelayX Attack Setup — full red team relay chain in lab  
-- 🛡️ Wazuh SIEM Deployment — from scratch, including alert tuning and hardening  
-- 📬 Phishing Simulation Suite — crafted payloads and SMTP command exploits  
-
----
 
 ### 🎯 My Offensive Security Philosophy
 
 > “If you can’t exploit it, you don’t understand it. If you understand it, you can defend it. But I prefer offense — because that’s where real learning lives.”
 
-No smoke, no mirrors — just raw technical skill, curiosity, and relentless hands-on work. I document everything so the next red team can come back stronger.
 
 ---
 
