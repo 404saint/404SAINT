@@ -6,21 +6,6 @@ Yo, I’m Tesla — a relentless penetration tester and offensive security hacke
 
 ---
 
-### 🧠 Core Competencies & Badass Skills
-
-- ⚔️ **Active Directory Attacks:** NTLM Relay, Responder, BloodHound, SharpHound, Privilege Escalation  
-- 💻 **Red Team Automation:** Custom Bash scripts, Python tooling, Recon God-mode automation  
-- 🔍 **Advanced Reconnaissance:** Network scanning, subdomain enumeration, DNS poisoning simulations  
-- 📡 **Social Engineering & Phishing:** Crafting simulated phishing campaigns & payloads  
-- 🕵️‍♂️ **Credential Extraction & Post-Exploitation:** Chrome saved passwords extractor, lateral movement techniques  
-- 🔥 **SIEM & Threat Hunting:** Wazuh deployment, Sysmon logging, real-time alerting and anomaly detection  
-- 🛡️ **Exploit Development & Lab Simulation:** Building custom exploits in controlled environments for training and research  
-- 🧩 **Protocol Exploits:** SMTP VRFY/EXPN abuse, crafted phishing emails, SMTP misconfiguration hunting  
-- 💾 **Data Parsing & Visualization:** SharpHound ZIP parsing, graph generation with networkx/matplotlib, Markdown export with risk ratings  
-- 🔐 **Authentication Attacks:** NTLM relaying setups, Hydra brute-force simulations, SMB exploitation  
-
----
-
 ### 🚧 Current Projects & Labs
 
 - 🧰 God-mode Recon Script — fully automated, multi-tool Bash reconnaissance  
